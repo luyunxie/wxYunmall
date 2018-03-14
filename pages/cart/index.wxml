@@ -1,0 +1,6 @@
+<view class="container">
+  <view class='wrap'>
+    <image src="{{cartImg}}" class="cart-image"/>
+    <view>{{tipWords}}</view>
+  </view>
+</view>
